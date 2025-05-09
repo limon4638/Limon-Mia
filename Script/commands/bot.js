@@ -91,11 +91,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "@Muntaha Mim") || (event.body.toLowerCase() == "@Muntaha Mim ")) {
+   if ((event.body.toLowerCase() == "@muntaha mim") || (event.body.toLowerCase() == "@Muntaha Mim ")) {
      return api.sendMessage("খবরদার কেউ এই আইডি মেনশন দিবানা এটা আমার বস লিমন এর বউ এর আইডি😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "@Arisha Jahan") || (event.body.toLowerCase() == "Arisha")) {
+  if ((event.body.toLowerCase() == "@arisha jahan") || (event.body.toLowerCase() == "Arisha")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস লিমন এর বোন এর নাম..!😠🥰⛏️", threadID);
    };
   
@@ -107,8 +107,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস লিমন এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "@MD KAWSAR ") || (event.body.toLowerCase() == "Shaharia")) {
-     return api.sendMessage("🥰-সিয়াম-🌺 আমার বস লিমন এর বন্ধু লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
+  if ((event.body.toLowerCase() == "@md kawsar") || (event.body.toLowerCase() == "Shaharia")) {
+     return api.sendMessage("🥰-kawsar-🌺 আমার বস লিমন এর বন্ধু লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
    if ((event.body.toLowerCase() == "KISS ME") || (event.body.toLowerCase() == "kiss me")) {
@@ -139,8 +139,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️এন থেকে সর দুরে গিয়া মর😒", threadID);
    };
 
-   if ((event.body.toLowerCase() == "suraiya") || (event.body.toLowerCase() == "ex")) {
-     return api.sendMessage("️Kiss Randi Ka Name Le Ke Mood Khrab Kr Diya.🙄 Dubara Naam Mat Lena Iska", threadID);
+   if ((event.body.toLowerCase() == "janu") || (event.body.toLowerCase() == "sona")) {
+     return api.sendMessage("️জানু মনু না করে আমার.🥰 বস লিমন কে  একটা গফ খুজে দাও😘🤭", threadID);
    };
 
    if ((event.body.toLowerCase() == "cudi") || (event.body.toLowerCase() == "tor nanire xudi")) {
